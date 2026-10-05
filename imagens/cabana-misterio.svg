@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 480" role="img" aria-labelledby="title desc">
+<title id="title">Cabana na floresta</title>
+<desc id="desc">Ilustração original simples de uma cabana de madeira cercada por pinheiros.</desc>
+<rect width="700" height="480" fill="#efe5cf"/>
+<circle cx="560" cy="85" r="48" fill="#d7a658"/>
+<path d="M40 420 L120 230 L200 420 Z" fill="#274d3b"/>
+<path d="M500 420 L580 210 L660 420 Z" fill="#274d3b"/>
+<rect x="210" y="225" width="290" height="190" fill="#8d5b36"/>
+<path d="M180 235 L355 110 L530 235 Z" fill="#4f3425"/>
+<rect x="325" y="305" width="70" height="110" fill="#4c3022"/>
+<rect x="245" y="275" width="54" height="48" fill="#e8cc88" stroke="#4c3022" stroke-width="8"/>
+<rect x="410" y="275" width="54" height="48" fill="#e8cc88" stroke="#4c3022" stroke-width="8"/>
+<rect x="305" y="190" width="100" height="46" fill="#d19b4b" stroke="#4c3022" stroke-width="8"/>
+<text x="355" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2a211c">MISTÉRIO</text>
+<rect x="0" y="414" width="700" height="66" fill="#56704c"/>
+</svg>
