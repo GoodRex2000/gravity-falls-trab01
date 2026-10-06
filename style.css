@@ -88,8 +88,10 @@ nav a:hover {
 
 .hero img {
     width: 100%;
+    aspect-ratio: 11 / 10;
     max-height: 480px;
-    object-fit: contain;
+    object-fit: cover;
+    object-position: center;
 }
 
 .etiqueta {
@@ -300,6 +302,12 @@ footer {
     .imagem-texto,
     .destaque {
         gap: 32px;
+    }
+
+    .hero img {
+        aspect-ratio: auto;
+        max-height: none;
+        object-fit: contain;
     }
 
     .cards {
